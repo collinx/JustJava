@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Just Java</string>
+    <string name="Topplings">Topplings</string>
+    <string name="whip">Whipped Cream</string>
+    <string name="choc">Chocolate</string>
+    <string name="Quantity">Quantity</string>
+    <string name="Number">0</string>
+    <string name="Order">Order</string>
+    <string name="Price">Order Summary</string>
+    <string name="Value">Rs. 0</string>
+    <string name="dec">-</string>
+    <string name="inc">+</string>
+    <string name="Name">Name</string>
+    <string name="Just">Just Java Order For</string>
+    <string name="tr">True</string>
+    <string name="fa">False</string>
+    <string name="email">Email</string>
+    <string name="emaio">mailto:<xliff:g id="mail" example="djk@gmail.com">%s</xliff:g></string>
+</resources>
